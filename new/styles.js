@@ -15,7 +15,7 @@ var styles = [ {
       "font-weight" : "normal",
       "text-valign" : "bottom",
       "text-halign" : "right",
-      "background-color" : "rgb(255,255,255)",
+      "background-color" : "rgb(0,0,0)",
       "border-width" : 0.0,
       "border-color" : "rgb(255,255,255)",
       "color" : "rgb(204,204,204)",
